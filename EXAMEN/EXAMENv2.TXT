@@ -5,3 +5,106 @@ git push
 git add LICENSE
 git commit -m "Pujar LICENSE, no s'havia guardat"
 git push
+g
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2/EXAMEN (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../LICENSE
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2/EXAMEN (main)
+$ git add .
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2/EXAMEN (main)
+$ cd ..
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        LICENSE
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git add LICENSE
+warning: in the working copy of 'LICENSE', LF will be replaced by CRLF the next time Git touches it
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   LICENSE
+
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ nano EXAMEN/EXAMENv2.TXT
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   LICENSE
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   EXAMEN/EXAMENv2.TXT
+
+git
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git add .
+warning: in the working copy of 'EXAMEN/EXAMENv2.TXT', LF will be replaced by CRLF the next time Git touches it
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ gti status
+bash: gti: command not found
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   EXAMEN/EXAMENv2.TXT
+        new file:   LICENSE
+
+
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git commit -m "Pujar LICENSE, no s'havia guardat"
+[main f0fc356] Pujar LICENSE, no s'havia guardat
+ 2 files changed, 154 insertions(+), 1 deletion(-)
+ create mode 100644 LICENSE
+g
+busin@DESKTOP-QQFCFOV MINGW64 ~/Desktop/examenm5uf2 (main)
+$ git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 5.32 KiB | 5.32 MiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/AdriadelaFuente/examenm5uf2.git
+   10d5598..f0fc356  main -> main
