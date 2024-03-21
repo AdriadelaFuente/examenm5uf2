@@ -3,3 +3,4 @@
   175  git branch inprogress
   176  git checkout inprogress
   177  git branch
+	git push --set-upstream origin inprogress
