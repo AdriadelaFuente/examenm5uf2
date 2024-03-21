@@ -1,0 +1,6 @@
+git status
+git add .
+git status
+git commit -m "Afegir canvis en local i remot versio 7"
+git status
+git push

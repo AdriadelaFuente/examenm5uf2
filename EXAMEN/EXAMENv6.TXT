@@ -1,0 +1,5 @@
+  172  git status
+  173  git pull
+  175  git branch inprogress
+  176  git checkout inprogress
+  177  git branch
