@@ -2,4 +2,6 @@ git status
 git add .
 git commit -m "Guardar els canvis en local i remot"
 git push
-
+git add LICENSE
+git commit -m "Pujar LICENSE, no s'havia guardat"
+git push
