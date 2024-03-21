@@ -1,0 +1,6 @@
+git init
+nano README.MD
+nano COPYRIGHT
+mkdir EXAMEN
+cd EXAMEN
+nano EXAMENv1.TXT
