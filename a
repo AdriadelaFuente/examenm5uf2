@@ -1,0 +1,82 @@
+[1mdiff --git a/MiniStore-1.0.0/index.html b/MiniStore-1.0.0/index.html[m
+[1mindex 0369878..60e7e0d 100644[m
+[1m--- a/MiniStore-1.0.0/index.html[m
+[1m+++ b/MiniStore-1.0.0/index.html[m
+[36m@@ -841,54 +841,54 @@[m
+               </div>[m
+               <div class="col-lg-2 col-sm-6 pb-3">[m
+                 <div class="footer-menu text-uppercase">[m
+[31m-                  <h5 class="widget-title pb-2">Quick Links</h5>[m
+[32m+[m[32m                  <h5 class="widget-title pb-2">Links d'accés rápid</h5>[m
+                   <ul class="menu-list list-unstyled text-uppercase">[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Home</a>[m
+[32m+[m[32m                      <a href="#">Inici</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">About</a>[m
+[32m+[m[32m                      <a href="#">Sobre nosaltres</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Shop</a>[m
+[32m+[m[32m                      <a href="#">Tenda</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+                       <a href="#">Blogs</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Contact</a>[m
+[32m+[m[32m                      <a href="#">Contacte</a>[m
+                     </li>[m
+                   </ul>[m
+                 </div>[m
+               </div>[m
+               <div class="col-lg-3 col-sm-6 pb-3">[m
+                 <div class="footer-menu text-uppercase">[m
+[31m-                  <h5 class="widget-title pb-2">Help & Info Help</h5>[m
+[32m+[m[32m                  <h5 class="widget-title pb-2">Ajuda i inforamció</h5>[m
+                   <ul class="menu-list list-unstyled">[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Track Your Order</a>[m
+[32m+[m[32m                      <a href="#">Segueix el teu enviament</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Returns Policies</a>[m
+[32m+[m[32m                      <a href="#">Polítiques de devolucions</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Shipping + Delivery</a>[m
+[32m+[m[32m                      <a href="#">Enviament i entrega</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Contact Us</a>[m
+[32m+[m[32m                      <a href="#">Contacte</a>[m
+                     </li>[m
+                     <li class="menu-item pb-2">[m
+[31m-                      <a href="#">Faqs</a>[m
+[32m+[m[32m                      <a href="#">Preguntes</a>[m
+                     </li>[m
+                   </ul>[m
+                 </div>[m
+               </div>[m
+               <div class="col-lg-3 col-sm-6 pb-3">[m
+                 <div class="footer-menu contact-item">[m
+[31m-                  <h5 class="widget-title text-uppercase pb-2">Contact Us</h5>[m
+[31m-                  <p>Do you have any queries or suggestions? <a href="mailto:">yourinfo@gmail.com</a>[m
+[32m+[m[32m                  <h5 class="widget-title text-uppercase pb-2">Contacta amb nosaltres</h5>[m
+[32m+[m[32m                  <p>Tens algun dubte? <a href="mailto:">yourinfo@gmail.com</a>[m
+                   </p>[m
+[31m-                  <p>If you need support? Just give us a call. <a href="">+55 111 222 333 44</a>[m
+[32m+[m[32m                  <p>Si necessites ajuda, simplement trucan's <a href="">+55 111 222 333 44</a>[m
+                   </p>[m
+                 </div>[m
+               </div>[m
+[36m@@ -922,7 +922,7 @@[m
+           </div>[m
+           <div class="col-md-4 col-sm-6">[m
+             <div class="copyright">[m
+[31m-              <p>© Copyright 2023 MiniStore. Design by <a href="https://templatesjungle.com/">TemplatesJungle</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a>[m
+[32m+[m[32m              <p>© Copyright 2023 MiniStore. Design by <a href="https://templatesjungle.com/">Adrià de la Fuente</a> Distribution by <a href="https://themewagon.com">Adrià de la Fuente</a>[m
+               </p>[m
+             </div>[m
+           </div>[m
