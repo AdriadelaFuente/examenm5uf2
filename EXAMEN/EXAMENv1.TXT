@@ -1,6 +1,11 @@
 git init
-nano README.MD
-nano COPYRIGHT
-mkdir EXAMEN
-cd EXAMEN
-nano EXAMENv1.TXT
+git remote add origin https://github.com/AdriadelaFuente/examenm5uf2.git	
+git branch -M main
+$ git log
+commit 13c78dea1800c6096aaf208fe7de4328a52aff5b (HEAD -> main, origin/main)
+Author: Adrià de la Fuente <adria.fuente.bitbucket@tusmedia.com>
+Date:   Thu Mar 21 08:25:35 2024 +0100
+
+    Primer pujada per enllaçar els repositoris entre local i git
+
+git push -u origin main
