@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m "Guardar els canvis en local i remot"
+git push
+
